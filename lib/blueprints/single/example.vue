@@ -3,7 +3,7 @@
 
 <script>
 export default {
-  name: '{{name | kebabCase}}',
+  name: '{{ name }}',
   data() {
     return {
       
